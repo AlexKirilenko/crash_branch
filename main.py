@@ -1,3 +1,1 @@
-a = 7
-b = 9
-c = 23
+print("create conflict")
